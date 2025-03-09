@@ -2,7 +2,7 @@
  Short Description: Use of R (Graphviz and DiagrammeR) and excel to build pretty charts to visualize survey question structure and conditional logic.
 
 >[!info]
->I use Limesurvey. Because limesurvey allows one to export a survey, I can use R to sift through the export to build a dataframe of questions within a survey. However, at this current time, I simply update a formulated excel worksheet that R pulls to updated visuals
+>I use Limesurvey. Because limesurvey allows one to export a survey, I can use R to sift through the export to build a dataframe of questions within a survey. However, at this current time, I simply update a formulated excel worksheet that R pulls to create updated visuals
 
  ## Why was this made?
 Simply put, I feel like the use of diagrams speaks for itself. To avoid keeping/sharing extensive paragraphs of what links to what, I just wanted something to show those changes -- in a more collective sense.
