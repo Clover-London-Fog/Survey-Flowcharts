@@ -1,4 +1,4 @@
-# Survey-Flowcharts
+# Survey-Flowcharts-or-Diagrams
  Short Description: Use of R (Graphviz and DiagrammeR) and excel to build pretty charts to visualize survey question structure and conditional logic.
 
 >[!info]
