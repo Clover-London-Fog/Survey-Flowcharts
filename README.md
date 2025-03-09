@@ -2,7 +2,7 @@
  Short Description: Use of R (Graphviz and DiagrammeR) and excel to build pretty charts to visualize survey question structure and conditional logic.
 
 >[!info]
->Testing Markdown thing here... Test. I use Limesurvey. Because limesurvey allows onw to export a survey, I can use R to sift through the questions using grepl?. This is something to test in the future.
+>I use Limesurvey. Because limesurvey allows one to export a survey, I can use R to sift through the export to build a dataframe of questions within a survey. However, at this current time, I simply update a formulated excel worksheet that R pulls to updated visuals
 
  ## Why was this made?
 Simply put, I feel like the use of diagrams speaks for itself. To avoid keeping/sharing extensive paragraphs of what links to what, I just wanted something to show those changes -- in a more collective sense.
@@ -19,3 +19,10 @@ That being said, this obviously does not mean it is perfect. Simply, a good Band
 So, I set this up in about the same amount of time that would take to do by hand.
 
 Just seemed to make more sense.
+
+## Ideas for future
+
+- Use grepl to build node dataframe from limesurvey export, along with any conditional logic.
+- update the formatting, maybe opacity and light-pleasing gradients.
+- find a way to make filled white boxs behind edge descriptions (labels). Can make for neater formatting.
+- Try to make it with Mermaid option? I like the default version, but still.
