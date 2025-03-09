@@ -1,8 +1,12 @@
 # Survey-Flowcharts-or-Diagrams
  Short Description: Use of R (Graphviz and DiagrammeR) and excel to build pretty charts to visualize survey question structure and conditional logic.
 
+ Includes, created and stylized clusters AND created subnodes(?) within Mrecord boxes. And how to create edges that stem from those subnodes (subboxes?).
+
 >[!info]
 >I use Limesurvey. Because limesurvey allows one to export a survey, I can use R to sift through the export to build a dataframe of questions within a survey. However, at this current time, I simply update a formulated excel worksheet that R pulls to create updated visuals
+
+Here is an edited image of the diagram made for a small survey. I will replace this one at some point, I think.
 
 ![ExampleClusterDiagram](https://github.com/Clover-London-Fog/Survey-Flowcharts/blob/main/Rplot.jpg?raw=true)
 
